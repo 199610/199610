@@ -1,0 +1,1 @@
+已执行的 SQL 语句：insert into `travel`.`wine_and_dine` () values ()错误号：1364错误信息：Field 'name' doesn't have a default value
